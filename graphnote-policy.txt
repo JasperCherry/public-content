@@ -1,3 +1,0 @@
-App does not send user data.
-
-All data is stored on mobile itself.
