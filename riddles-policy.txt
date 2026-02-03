@@ -1,0 +1,91 @@
+Privacy Policy
+
+Last updated: Feb 3 2026
+
+This Privacy Policy explains how this mobile application (the "App") handles user
+information.
+
+1. Information We Collect
+
+The App does not collect, store, or process any personal or real-world user data.
+
+The only data stored by the App is:
+
+An optional nickname chosen freely by the user
+(not a real name and not used to identify a real person)
+
+Game progress data, such as:
+
+Riddles completed
+
+Progress or achievements within the App
+
+This data is used solely to provide the core functionality of the App.
+
+2. Personal Information
+
+We do not collect:
+
+Real names
+
+Email addresses
+
+Phone numbers
+
+Location data
+
+Device identifiers
+
+Contacts
+
+Photos or media
+
+Any other personally identifiable information
+
+The App can be used anonymously.
+
+3. How Data Is Used
+
+The limited data stored by the App is used only to:
+
+Save user progress
+
+Improve the gameplay experience
+
+Allow users to continue where they left off
+
+The data is not used for advertising, tracking, profiling, or analytics.
+
+4. Data Storage
+
+All stored data consists only of game-related progress and the optional nickname.
+This data is stored locally on the device or in the App’s backend (if applicable) and
+is not linked to any real-world identity.
+
+5. Data Sharing
+
+We do not share, sell, rent, or trade any user data with third parties.
+
+No data is transmitted to advertisers, analytics providers, or external services.
+
+6. Children’s Privacy
+
+The App does not knowingly collect any personal data from children or adults.
+Since no personal data is collected, the App is safe to use without providing
+identifiable information.
+
+7. User Control
+
+Users may reset or remove their game progress at any time by clearing the App data
+or uninstalling the App.
+
+8. Changes to This Policy
+
+This Privacy Policy may be updated from time to time. Any changes will be reflected
+by updating the "Last updated" date at the top of this policy.
+
+9. Contact
+
+If you have any questions about this Privacy Policy, you can contact us at:
+
+Email: kacper.wisnicki@gmail.com
