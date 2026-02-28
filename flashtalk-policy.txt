@@ -1,0 +1,60 @@
+PRIVACY POLICY
+Effective Date: February 28, 2026
+
+This Privacy Policy describes how the Morse Code Communication App
+("the App") handles user information.
+
+1. Overview
+
+The App is designed to send and receive Morse code signals using the
+device’s flashlight and/or camera. The App works fully offline and
+does not require an internet connection for its core functionality.
+
+2. Data Collection
+
+The App does NOT collect, store, process, or share any personal data.
+
+Specifically:
+
+- No personal information is collected.
+- No account registration is required.
+- No analytics tools are used.
+- No advertising SDKs are integrated.
+- No tracking technologies are implemented.
+- No user data is transmitted to any server.
+
+3. Permissions
+
+The App may request access to the following device features:
+
+Camera – Used only for detecting light signals when receiving Morse code.
+Flashlight (Camera Flash) – Used only to transmit Morse code visually.
+
+These permissions are used strictly for the functionality of the App.
+No images, videos, or sensor data are stored, recorded, or transmitted.
+
+4. Data Storage
+
+The App does not store any user data locally or remotely. All signal
+processing occurs in real time on the device.
+
+5. Third-Party Services
+
+The App does not use third-party services that collect user data.
+
+6. Children’s Privacy
+
+The App does not knowingly collect personal information from anyone,
+including children under 13 years of age, because no data is collected.
+
+7. Changes to This Policy
+
+If this Privacy Policy is updated, changes will be reflected in the
+App listing with a revised effective date.
+
+8. Contact
+
+If you have any questions about this Privacy Policy, you may contact
+the developer at:
+
+kacper.wisnicki@gmail.com
