@@ -1,67 +1,92 @@
-# Privacy Policy for Motion Alarm
+PRIVACY POLICY FOR MOTION ALARM
+Effective Date: 13 April 2026
 
-**Effective Date:** 13 April 2026
+1. INTRODUCTION
+   Motion Alarm ("the App") provides motion-based alarm functionality.
+   Your privacy is important, and this Privacy Policy explains how
+   information is handled when you use the App.
 
-## 1. Introduction
-
-Motion Alarm ("the App") is designed to provide a simple motion-based alarm functionality. Your privacy is important to us, and this Privacy Policy explains how we handle information when you use the App.
-
-## 2. Information We Collect
-
-Motion Alarm does **not collect, store, or share any personal data**.
+2. INFORMATION WE COLLECT
+   Motion Alarm does NOT collect, store, or transmit any personal data.
 
 Specifically:
 
-* We do not require account registration.
-* We do not collect names, email addresses, or contact information.
-* We do not collect location data.
-* We do not collect device identifiers.
-* We do not collect or store any user-generated data.
+* No account registration is required
+* No names, emails, or contact details are collected
+* No location data is collected
+* No device identifiers are collected
+* No user-generated data is collected or stored
 
-## 3. Device Permissions
+All functionality operates entirely on your device.
 
-The App may request access to certain device features solely to provide its functionality:
+3. LOCAL DATA (APP SETTINGS ONLY)
+   The App may store basic settings locally on your device, such as:
 
-* **Motion Sensors (e.g., accelerometer, gyroscope):**
-  Used only to detect movement and trigger the alarm.
+* Alarm configuration (e.g., sensitivity, sound preferences)
 
-* **Audio / Speaker Access:**
-  Used to play the alarm sound.
+This data:
 
-* **Camera / Flashlight Access:**
-  Used only to enable the device flashlight (torch) as part of the alarm or alert functionality. The App does not capture photos or record video.
+* Never leaves your device
+* Is not transmitted to any servers
+* Is stored only to ensure the App functions correctly
 
-* **Screen Brightness Control:**
-  Used to increase screen visibility during an alarm event. No data related to screen usage is collected or stored.
+4. DATA RETENTION AND DELETION
+   Since Motion Alarm does not collect or store personal data externally:
 
-These permissions are used **only locally on your device** and are never used to collect, store, or transmit data.
+* No personal data is retained by the developer
+* All app-related data exists only locally on your device
 
-## 4. Data Sharing
+You can delete all stored data at any time by:
 
-We do **not share any data** with third parties because we do not collect any data.
+* Clearing the app storage via your device settings, or
+* Uninstalling the App
 
-## 5. Third-Party Services
+Uninstalling the App will permanently delete all associated data.
 
-Motion Alarm does **not use any third-party services**, analytics tools, or advertising SDKs that collect user data.
+5. DEVICE PERMISSIONS
+   The App may request access to the following features:
 
-## 6. Data Security
+* Motion Sensors (accelerometer, gyroscope):
+  Used only to detect movement and trigger alarms
 
-Since no personal data is collected or stored, there is no risk of your personal information being accessed, used, or disclosed by the App.
+* Audio / Speaker:
+  Used to play alarm sounds
 
-## 7. Children’s Privacy
+* Camera / Flashlight:
+  Used only for flashlight functionality during alarms
+  (No photos or videos are captured)
 
-Motion Alarm does not knowingly collect any personal information from children under the age of 13. Since no data is collected, the App is safe for general audiences.
+* Screen Brightness Control:
+  Used to improve visibility during alarm events
 
-## 8. Changes to This Privacy Policy
+All permissions are used strictly for core functionality and never
+for data collection.
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Effective Date."
+6. DATA SHARING
+   We do not share any data with third parties, as no data is collected.
 
-## 9. Contact
+7. THIRD-PARTY SERVICES
+   The App does not use:
 
-If you have any questions about this Privacy Policy, you can contact us at:
+* Analytics tools
+* Advertising SDKs
+* External tracking services
 
-Email: kacper.wisnicki@gmail.com
+8. DATA SECURITY
+   Because no personal data is collected or transmitted, there is no
+   risk of external data exposure.
 
----
+9. CHILDREN'S PRIVACY
+   The App does not knowingly collect any personal data from children
+   under 13. Since no data is collected, it is suitable for general
+   audiences.
+
+10. CHANGES TO THIS POLICY
+    This Privacy Policy may be updated periodically. Updates will be
+    posted with a revised Effective Date.
+
+11. CONTACT
+    If you have questions about this Privacy Policy:
+    Email: kacper.wisnicki@gmail.com
 
 By using Motion Alarm, you agree to this Privacy Policy.
