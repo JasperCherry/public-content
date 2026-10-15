@@ -1,37 +1,43 @@
 PRIVACY POLICY FOR MOTION ALARM
-Effective Date: 13 April 2026
+Effective Date: 15 October 2026
 
 1. INTRODUCTION
-   Motion Alarm ("the App") provides motion-based alarm functionality.
-   Your privacy is important, and this Privacy Policy explains how
-   information is handled when you use the App.
+   Motion Alarm ("the App", Android package com.jaspercherry.motionalarm)
+   provides motion-based alarm functionality. Your privacy is important,
+   and this Privacy Policy explains how information is handled when you
+   use the App.
 
 2. INFORMATION WE COLLECT
-   Motion Alarm does NOT collect, store, or transmit any personal data.
+   The developer does NOT collect, store, or transmit any personal data.
 
 Specifically:
 
 * No account registration is required
 * No names, emails, or contact details are collected
 * No location data is collected
-* No device identifiers are collected
-* No user-generated data is collected or stored
+* No analytics or tracking by the developer
 
-All functionality operates entirely on your device.
+The only data that leaves your device goes to Google: for ads (Google
+AdMob, see section 7) and for the optional Remove ads purchase (Google
+Play, see section 8).
 
-3. LOCAL DATA (APP SETTINGS ONLY)
-   The App may store basic settings locally on your device, such as:
+3. LOCAL DATA (SETTINGS AND ALARM LOG)
+   The App stores the following locally on your device:
 
-* Alarm configuration (e.g., sensitivity, sound preferences)
+* Settings, such as sensitivity, timers and light pattern
+* The alarm log: when you armed and disarmed the alarm, when it was
+  triggered and how strong the movement was
 
 This data:
 
 * Never leaves your device
 * Is not transmitted to any servers
-* Is stored only to ensure the App functions correctly
+* Is stored only so the App works as expected
+
+You can delete the log at any time with Clear on the Logs tab.
 
 4. DATA RETENTION AND DELETION
-   Since Motion Alarm does not collect or store personal data externally:
+   Since the developer does not collect or store personal data externally:
 
 * No personal data is retained by the developer
 * All app-related data exists only locally on your device
@@ -47,45 +53,76 @@ Uninstalling the App will permanently delete all associated data.
    The App may request access to the following features:
 
 * Motion Sensors (accelerometer, gyroscope):
-  Used only to detect movement and trigger alarms
+  Used only on the device to detect movement and trigger alarms.
+  Readings are not sent anywhere.
 
 * Audio / Speaker:
   Used to play alarm sounds
 
 * Camera / Flashlight:
-  Used only for flashlight functionality during alarms
+  Used only to switch the flashlight on and off when the alarm fires
   (No photos or videos are captured)
 
-* Screen Brightness Control:
-  Used to improve visibility during alarm events
+* Modify System Settings (screen brightness):
+  Used only to dim the screen while the alarm is armed and brighten it
+  when it fires
 
-All permissions are used strictly for core functionality and never
-for data collection.
+* Internet / Advertising ID:
+  Used only by Google AdMob to serve and measure ads
+
+The App does not use your location, contacts, microphone or files.
 
 6. DATA SHARING
-   We do not share any data with third parties, as no data is collected.
+   The developer does not share any data with third parties. Google
+   processes the advertising and purchase data described in sections 7
+   and 8 under its own privacy policy.
 
-7. THIRD-PARTY SERVICES
-   The App does not use:
+7. ADVERTISING
+   The free version of the App shows ads from Google AdMob. To serve and
+   measure ads, Google may collect your device's advertising ID, IP
+   address, general device information and how you interact with ads.
+   Google's use of this data is described in:
+
+* How Google uses information from sites or apps that use our services:
+  https://policies.google.com/technologies/partner-sites
+* Google Privacy Policy:
+  https://policies.google.com/privacy
+
+   If you are in the European Economic Area, the United Kingdom or
+   Switzerland, the App asks for your consent before any ads are
+   requested. You can change your choice later under Privacy settings at
+   the bottom of the Manual tab. You can also reset or delete your
+   advertising ID in your device's Android settings.
+
+8. REMOVE ADS PURCHASE
+   Remove ads is an optional one-time purchase handled entirely by
+   Google Play. The App never sees your payment details. It only asks
+   Google Play whether your account owns the purchase, and keeps a copy
+   of that answer on your device so ads stay off when you are offline.
+   Google's handling of purchases is covered by the Google Privacy
+   Policy: https://policies.google.com/privacy
+
+9. THIRD-PARTY SERVICES
+   The only third-party services in the App are Google AdMob and Google
+   Play Billing (Google LLC). The App does not use:
 
 * Analytics tools
-* Advertising SDKs
-* External tracking services
+* Crash reporting or tracking services
+* Any server owned by the developer
 
-8. DATA SECURITY
-   Because no personal data is collected or transmitted, there is no
-   risk of external data exposure.
+10. DATA SECURITY
+    Settings and the alarm log stay on your device. Data sent to Google
+    is encrypted in transit.
 
-9. CHILDREN'S PRIVACY
-   The App does not knowingly collect any personal data from children
-   under 13. Since no data is collected, it is suitable for general
-   audiences.
+11. CHILDREN'S PRIVACY
+    The App is not directed at children under 13 and does not knowingly
+    collect any personal data from them.
 
-10. CHANGES TO THIS POLICY
+12. CHANGES TO THIS POLICY
     This Privacy Policy may be updated periodically. Updates will be
     posted with a revised Effective Date.
 
-11. CONTACT
+13. CONTACT
     If you have questions about this Privacy Policy:
     Email: kacper.wisnicki@gmail.com
 
