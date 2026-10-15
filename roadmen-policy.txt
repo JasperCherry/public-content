@@ -1,0 +1,109 @@
+PRIVACY POLICY FOR ROADMEN
+Effective Date: 15 October 2026
+
+1. INTRODUCTION
+   Roadmen ("the App", Android package com.jaspercherry.roadmen) is a
+   lane-battle game. Your privacy is important, and this Privacy Policy
+   explains how information is handled when you use the App.
+
+2. INFORMATION WE COLLECT
+   The developer does NOT collect, store, or transmit any personal data.
+
+Specifically:
+
+* No account registration is required
+* No names, emails, or contact details are collected
+* No location data is collected
+* No analytics or tracking by the developer
+* No in-app purchases
+
+The only data that leaves your device is handled by Google AdMob for
+advertising (see sections 6 and 7).
+
+3. LOCAL DATA (GAME PROGRESS ONLY)
+   The App stores your game progress locally on your device, such as:
+
+* Cities beaten and stars earned
+* Units recruited and their levels
+* Chicken wings (in-game currency) and your chosen squad
+
+This data:
+
+* Never leaves your device
+* Is not transmitted to any servers
+* Is stored only so you can continue your game
+
+4. DATA RETENTION AND DELETION
+   Since the developer does not collect or store personal data externally:
+
+* No personal data is retained by the developer
+* All game progress exists only locally on your device
+
+You can delete all stored data at any time by:
+
+* Clearing the app storage via your device settings, or
+* Uninstalling the App
+
+Uninstalling the App will permanently delete all game progress.
+
+5. DEVICE PERMISSIONS
+   The App does not request any runtime permissions. It uses:
+
+* Internet / network state:
+  Used only to load ads
+
+* Advertising ID:
+  Used by Google AdMob to serve and measure ads
+
+The App does not access your camera, microphone, contacts, location,
+photos or files.
+
+6. ADVERTISING
+   The App shows rewarded ads from Google AdMob, only when you choose
+   to watch one in exchange for in-game chicken wings. The App never
+   shows ads during gameplay.
+
+   To serve and measure ads, Google may collect your device's
+   advertising ID, IP address, general device information and how you
+   interact with ads. Google's use of this data is described in:
+
+* How Google uses information from sites or apps that use our services:
+  https://policies.google.com/technologies/partner-sites
+* Google Privacy Policy:
+  https://policies.google.com/privacy
+
+   If you are in the European Economic Area, the United Kingdom or
+   Switzerland, the App asks for your consent before any ads are
+   requested. You can change your choice at any time with "Privacy
+   options" at the bottom of the main menu. You can also reset or delete
+   your advertising ID in your device's Android settings.
+
+7. DATA SHARING AND THIRD-PARTY SERVICES
+   The developer does not share any data with third parties. The only
+   third-party service in the App is Google AdMob (Google LLC), which
+   processes the advertising data described in section 6 under its own
+   privacy policy.
+
+   The App does not use:
+
+* Analytics tools
+* Crash reporting or tracking services
+* Any server owned by the developer
+
+8. DATA SECURITY
+   Game progress stays on your device. Data sent to Google AdMob is
+   encrypted in transit.
+
+9. CHILDREN'S PRIVACY
+   The App is not directed at children under 13 and does not knowingly
+   collect any personal data from them.
+
+10. CHANGES TO THIS POLICY
+    This Privacy Policy may be updated periodically. Updates will be
+    posted with a revised Effective Date.
+
+11. CONTACT
+    If you have questions about this Privacy Policy:
+    Email: kacper.wisnicki@gmail.com
+
+By using Roadmen, you agree to this Privacy Policy.
