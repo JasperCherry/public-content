@@ -1,0 +1,118 @@
+PRIVACY POLICY FOR MAHJONG HAVEN: CRITTER RESCUE
+Effective Date: 17 October 2026
+
+1. INTRODUCTION
+   Mahjong Haven: Critter Rescue ("the App", Android package
+   com.jaspercherry.mahjonghaven) is a single-player mahjong solitaire
+   puzzle game. Your privacy is important, and this Privacy Policy
+   explains how information is handled when you use the App.
+
+2. INFORMATION WE COLLECT
+   The developer does NOT collect, store, or transmit any personal data.
+
+Specifically:
+
+* No account registration is required
+* No names, emails, or contact details are collected
+* No location data is collected by the developer
+* No analytics or tracking by the developer
+
+The only data that leaves your device goes to Google for ads (Google
+AdMob, see section 7).
+
+3. LOCAL DATA (GAME PROGRESS AND SETTINGS)
+   The App stores the following locally on your device:
+
+* Game progress, such as levels completed, coins, boosters, rescued
+  critters, daily puzzle results and streaks
+* Settings, such as sound, vibration and reminder preferences
+
+This data:
+
+* Never leaves your device
+* Is not transmitted to any servers
+* Is stored only so the App works as expected
+
+4. DATA RETENTION AND DELETION
+   Since the developer does not collect or store personal data externally:
+
+* No personal data is retained by the developer
+* All app-related data exists only locally on your device
+
+You can delete all stored data at any time by:
+
+* Clearing the app storage via your device settings, or
+* Uninstalling the App
+
+Uninstalling the App will permanently delete all associated data,
+including your game progress.
+
+5. DEVICE PERMISSIONS
+   The App may request access to the following features:
+
+* Notifications (optional):
+  Used only for an optional daily reminder that a new Daily Puzzle is
+  ready. Reminders are scheduled on your device; no server is involved.
+  You can turn them off at any time in the App's Settings.
+
+* Vibration:
+  Used for short haptic feedback when you play
+
+* Internet / Advertising ID:
+  Used only by Google AdMob to serve and measure ads
+
+The App does not use your location, contacts, camera, microphone or
+files.
+
+6. DATA SHARING
+   The developer does not share any data with third parties. Google
+   processes the advertising data described in section 7 under its own
+   privacy policy.
+
+7. ADVERTISING
+   The App is free and shows ads from Google AdMob, including optional
+   rewarded videos that you can choose to watch for in-game rewards. To
+   serve and measure ads, Google may collect your device's advertising
+   ID, IP address (from which an approximate location may be inferred),
+   general device information and how you interact with ads. Google's use
+   of this data is described in:
+
+* How Google uses information from sites or apps that use our services:
+  https://policies.google.com/technologies/partner-sites
+* Google Privacy Policy:
+  https://policies.google.com/privacy
+
+   If you are in the European Economic Area, the United Kingdom or
+   Switzerland, the App asks for your consent before any ads are
+   requested. You can change your choice later under Settings > Privacy
+   & ad choices in the App. You can also reset or delete your
+   advertising ID in your device's Android settings.
+
+8. IN-APP PURCHASES
+   The App does not offer any in-app purchases.
+
+9. THIRD-PARTY SERVICES
+   The only third-party service in the App is Google AdMob (Google LLC).
+   The App does not use:
+
+* Analytics tools
+* Crash reporting or tracking services
+* Any server owned by the developer
+
+10. DATA SECURITY
+    Game progress and settings stay on your device. Data sent to Google
+    is encrypted in transit.
+
+11. CHILDREN'S PRIVACY
+    The App is not directed at children under 13 and does not knowingly
+    collect any personal data from them.
+
+12. CHANGES TO THIS POLICY
+    This Privacy Policy may be updated periodically. Updates will be
+    posted with a revised Effective Date.
+
+13. CONTACT
+    If you have questions about this Privacy Policy:
+    Email: kacper.wisnicki@gmail.com
+
+By using Mahjong Haven: Critter Rescue, you agree to this Privacy Policy.
